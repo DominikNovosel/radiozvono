@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://dominiknovosel.github.io/radiozvono/</loc>
+  <lastmod>2020-09-03T11:03:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dominiknovosel.github.io/radiozvono/%C5%A0kolsko%20radili%C5%A1te.html</loc>
+  <lastmod>2020-09-03T11:03:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dominiknovosel.github.io/radiozvono/Glazba%20je%20zvonka%20radost.html</loc>
+  <lastmod>2020-09-03T11:03:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dominiknovosel.github.io/radiozvono/Hrabrost%20nosi%20ime%20Magdalena.html</loc>
+  <lastmod>2020-09-03T11:03:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dominiknovosel.github.io/radiozvono/Izgubljena%20lutka.html</loc>
+  <lastmod>2020-09-03T11:03:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dominiknovosel.github.io/radiozvono/Riblji%20radio.html</loc>
+  <lastmod>2020-09-03T11:03:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
