@@ -20,7 +20,7 @@ div {
 
 .zoom {
     width: 100%;
-    margin-bottom: 10px; 
+    margin-bottom: 1vw; 
     aspect-ratio: 500 / 124;
     overflow: hidden;
     border-radius: 1.5vw; 
