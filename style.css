@@ -1,0 +1,40 @@
+body {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.logo {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial;
+}
+
+.zoom {
+    width: 100%;
+    margin-bottom: 10px; 
+    aspect-ratio: 500 / 124;
+    overflow: hidden;
+    border-radius: 1.5vw; 
+} 
+
+.zoom img { 
+    width: 100%; 
+    transition: 0.5s all ease-in-out; 
+} 
+
+.zoom:hover img { 
+    transform: scale(1.2); 
+}
+
+    footer {
+        font-family: Arial;
+    }
